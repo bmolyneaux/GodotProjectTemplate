@@ -12,6 +12,8 @@ It sets up the following:
 
 Press Ctrl+T to invoke the popup. The snippets can be filtered by a search string. Ending the search string with " X" will jump to the X-th item in the snippet list.
 
+Press Ctrl+T to jump to the next marker.
+
 ## Godot Notes usage
 
 You can drag the Notes panel to combine it with other panels. I put it with Inspector and Node.
