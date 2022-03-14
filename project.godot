@@ -22,7 +22,7 @@ gdscript/warnings/unused_return_value=false
 
 [editor_plugins]
 
-enabled=PoolStringArray( "res://addons/CodeSnippetPopup/plugin.cfg", "res://addons/godot-notes/plugin.cfg" )
+enabled=PoolStringArray( "res://addons/CodeSnippetPopup/plugin.cfg", "res://addons/godot-notes/plugin.cfg", "res://addons/imrp/plugin.cfg" )
 
 [physics]
 
